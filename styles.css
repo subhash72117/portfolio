@@ -280,9 +280,10 @@ img{
 }
 .about__img{
   justify-self: center;
+  
 }
 .about__img img{
-  width: 200px;
+  width: 500px;
   border-radius: .5rem;
 }
 
@@ -380,7 +381,8 @@ img{
 }
 /*===Portfolio Image===*/
 .port--img {
-  margin-bottom: 35px;
+  margin-bottom: 4px;
+  
 }
 /* ===== FOOTER =====*/
 .footer{
@@ -423,16 +425,16 @@ img{
 }
 
 .formbold-mb-5 {
-  margin-bottom: 20px;
+  margin-bottom: 10x;
 }
 .formbold-pt-3 {
-  padding-top: 12px;
+  padding-top: 10px;
 }
 .formbold-main-wrapper {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 48px;
+  padding: 40px;
 }
 
 .formbold-form-wrapper {
@@ -452,7 +454,7 @@ img{
   margin-bottom: 12px;
 }
 .formbold-form-label-2 {
-  font-weight: 600;
+  font-weight: 400;
   font-size: 20px;
   margin-bottom: 20px;
 }
